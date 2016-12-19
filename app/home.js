@@ -4,7 +4,7 @@ angular.module('app')
         '$scope',
         function($scope){
             console.log('testCtrl init')
-            $scope.name = 'korven'
+            $scope.name = 'hello'
         }
     ])
 
