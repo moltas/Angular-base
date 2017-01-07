@@ -1,0 +1,35 @@
+{
+  "name": "angular-best-practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moltas/Angular-best-practices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moltas/Angular-best-practices/issues"
+  },
+  "homepage": "https://github.com/moltas/Angular-best-practices#readme",
+  "dependencies": {
+    "angular-ui-router": "^0.3.2",
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.0.0",
+    "gulp-uglify": "^2.0.0",
+    "q": "^1.4.1"
+  }
+}

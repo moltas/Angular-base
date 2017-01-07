@@ -1,0 +1,10 @@
+
+
+.idea/Angular-best-practices.iml
+.idea/copyright/
+.idea/modules.xml
+.idea/workspace.xml
+bower_components/
+node_modules/
+dist
+npm-debug.log.*
